@@ -8,7 +8,7 @@ using namespace std;
 
 class Estoque {
 private:
-    std::vector<Produto> produtos;
+    vector<Produto> produtos;
 
 public:
     void adicionarProduto(const Produto& produto);
