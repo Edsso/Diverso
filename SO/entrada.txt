@@ -1,0 +1,4 @@
+ID | TempoChegada | Exec1 | Bloqueio (S/N) | Espera | Exec2
+P1 | 0            | 4     | S              | 3      | 2
+P2 | 1            | 5     | N              | 0      | 0
+P3 | 2            | 3     | S              | 2      | 4
